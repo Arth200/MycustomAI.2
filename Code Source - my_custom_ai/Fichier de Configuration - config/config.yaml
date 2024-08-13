@@ -1,0 +1,7 @@
+model_params:
+  hidden_layer_sizes: [50, 50]
+  random_state: 42
+
+train_test_split_params:
+  test_size: 0.2
+  random_state: 42
